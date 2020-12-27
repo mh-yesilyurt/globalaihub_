@@ -1,2 +1,2 @@
 # globalaihub_homework
-# Verdiğiniz güzel ve verimli kurs için teşekkürler :)
+# Turkish AI Hub ailesi, verdiğiniz güzel ve verimli kurs için teşekkürler :)
