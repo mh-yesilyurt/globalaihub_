@@ -18,8 +18,6 @@ while True:
         break
 
     selected_word=selected_session[random.randint(0,len(selected_session)-1)]
-    print(selected_word)
-    print("__\n |\n O \n/|\\ \n |\n/ \\")
     print("Let's Start the Game")
     guess=[]
     for m in range(0,len(selected_word)):
