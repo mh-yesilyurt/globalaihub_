@@ -23,7 +23,7 @@ while True:
     for m in range(0,len(selected_word)):
         guess.append("_")
     hata=0
-    for i in range(0,15):
+    for i in range(0,100):
         print("Enter a letter: ")
         x=input()
         if x in selected_word or x.upper() in selected_word[0]:
